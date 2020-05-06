@@ -1,0 +1,2 @@
+module Design_Pattern_PracticeCaseStudy_Abstruct_Factory_Pattern {
+}
